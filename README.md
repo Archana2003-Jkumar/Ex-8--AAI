@@ -71,4 +71,3 @@ except Exception as e:
 
 ## Result:
 Thus, we have implemented a program that will transcribe the audio file in the file variable and print the transcribed text on the console, one line at a time.
-](https://github.com/Archana2003-Jkumar/Ex-8--AAI.git)
